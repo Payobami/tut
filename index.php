@@ -77,7 +77,7 @@
                     <p>
                         The team of talented people with big ideas and creative minds. We are here to make your website a lot<br/>
                         more effective and profitable. Genesis Coming Soon Template is a perfect solution to keep your visitors inter-<br/>
-                        ested while preparing site for launch. We know what's the best and we're here for you. 
+                        ested while preparing site for launch. We know what's the best and we're here for you.
                     </p>
 
                     <!-- services -->
